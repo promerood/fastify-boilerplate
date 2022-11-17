@@ -1,7 +1,7 @@
 {
-  "name": "element-api-proxy-ms",
+  "name": "api-proxy-ms",
   "version": "1.0.0",
-  "description": "Element API  Proxy MS",
+  "description": "API  Proxy MS",
   "main": "index.js",
   "scripts": {
     "cleanup": "rm -rf dist && rm -rf node_modules",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PeakActivity/element-api-proxy-ms.git"
+    "url": ""
   },
   "keywords": [
     "fastify",
@@ -27,7 +27,7 @@
   "author": "Pablo D. Romero",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/PeakActivity/element-api-proxy-ms/issues"
+    "url": ""
   },
   "homepage": "https://github.com/PeakActivity/element-api-proxy-ms#readme",
   "dependencies": {
