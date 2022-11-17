@@ -82,8 +82,8 @@ export class Server {
     this.fastify.register(require('fastify-swagger'), {
       swagger: {
         info: {
-          title: 'Element MS-API',
-          description: 'Element MS-API description API to test',
+          title: 'MS-API',
+          description: 'MS-API description API to test',
           version: '0.0.1',
         },
         url: 'https://swagger.io',

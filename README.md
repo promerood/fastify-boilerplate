@@ -7,7 +7,6 @@ A fast, simple and clean RESTful API for connecting to NNN
 Note: See the .env file for all accepted variables
 
 ```
-API_URL: url for element api
 WHITELIST: by default all domains with merce.io are allowed; however, if you wish to add more domains you can add an array of values. Values can be regex or simple strings. Use commas if you wish to have multiple values
 ```
 
