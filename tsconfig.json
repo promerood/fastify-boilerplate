@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "strict": true,
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "newLine": "lf",
+    "lib": ["es2017"]
+  },
+  "include": ["src/**/*.ts"],
+  "exclude": ["__mocks__", "node_modules", ".vscode"]
+}
